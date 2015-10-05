@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "moodHotel"
+    },
+    "moodHotel": {
+      "applicationId": "E7gQwP4PVduzp8OOYatSn69rmClU8AI3lCwgIJXD"
+    }
+  }
+}
